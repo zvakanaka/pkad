@@ -1,0 +1,14 @@
+{
+  "name": "pkad",
+  "version": "1.0.0",
+  "description": "pkill all in directory",
+  "main": "index.js",
+  "bin": {
+    "pkad": "./bin/pkad.js"
+  },
+  "scripts": {
+    "start": "echo 'Please install by running `npm link` to set up `pkad` command.\n\tusage: pkad node [directory]'",
+    "test": "echo no tests yet"
+  },
+  "author": "Adam Quinton"
+}

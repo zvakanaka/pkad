@@ -1,3 +1,6 @@
+## Install
+`npm install -g pkad`
+
 ## Usage
 Kill process in current directory: 
 `pkill node`
