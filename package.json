@@ -1,6 +1,6 @@
 {
   "name": "pkad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pkill all in directory",
   "main": "index.js",
   "bin": {
@@ -10,5 +10,10 @@
     "start": "echo 'Please install by running `npm link` to set up `pkad` command.\n\tusage: pkad node [directory]'",
     "test": "echo no tests yet"
   },
-  "author": "Adam Quinton"
+  "author": "Adam Quinton",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zvakanaka/pkad.git"
+  }
 }
