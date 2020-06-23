@@ -3,9 +3,9 @@
 
 ## Usage
 Kill process in current directory: 
-`pkill node`
+`pkad node`
 
 
 Kill process in other directory:
-`pkill node ../http-server/node`
+`pkad node ../http-server/node`
 
